@@ -128,7 +128,6 @@
 
 * [**源码下载**](http://download.csdn.net/download/lewky_liu/10013556)
 * [**GitHub地址**](https://github.com/lewky/Seckill)
-
 >How to play
 
 * 将下载的源码解压后作为Maven项目导入到IDE工具中；或者将从GitHub克隆下来的项目作为Maven项目导入到IDE工具中
